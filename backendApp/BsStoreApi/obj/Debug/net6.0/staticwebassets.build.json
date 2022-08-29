@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t5cgqfgFGnx6Z2WI3IctJoQaPkPMxOUmrf1n/C/AMIQ=",
+  "Source": "BsStoreApi",
+  "BasePath": "_content/BsStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
